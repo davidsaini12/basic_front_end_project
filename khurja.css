@@ -1,0 +1,29 @@
+body{
+    background-color: aliceblue;
+    align-items: center;
+}
+h1{
+    font-style: oblique;
+    text-align: center;
+    padding-left: 20;
+    padding-top: 40;
+    background-color: bisque;
+    font-size: xx-large;
+    
+}
+
+.khu{
+    padding-left: 20;
+    padding-top: 40;
+    height: 60%;
+    width: 100%;
+    align-self: start;
+    text-align: center;
+    font-style: italic;
+    text-emphasis-color: red;
+    font-size: x-large;
+    background-color: cadetblue;
+}
+heading{
+     
+}
